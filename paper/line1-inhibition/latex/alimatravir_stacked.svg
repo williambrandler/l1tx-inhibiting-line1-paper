@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 340 372" width="340" height="372">
+<rect width="100%" height="100%" fill="#ffffff"/>
+<g transform="translate(58, 4)">
+<line x1="173.83" y1="37.86" x2="192.45" y2="48.61" stroke="#000000" stroke-width="1.15" stroke-linecap="butt"/>
+<line x1="175.98" y1="34.14" x2="194.60" y2="44.89" stroke="#000000" stroke-width="1.15" stroke-linecap="butt"/>
+<line x1="199.15" y1="56.50" x2="199.15" y2="78.00" stroke="#000000" stroke-width="1.45" stroke-linecap="butt"/>
+<line x1="198.08" y1="76.14" x2="179.46" y2="86.89" stroke="#000000" stroke-width="1.15" stroke-linecap="butt"/>
+<line x1="200.23" y1="79.86" x2="181.61" y2="90.61" stroke="#000000" stroke-width="1.15" stroke-linecap="butt"/>
+<line x1="169.28" y1="88.75" x2="150.66" y2="78.00" stroke="#000000" stroke-width="1.45" stroke-linecap="butt"/>
+<line x1="152.81" y1="78.00" x2="152.81" y2="50.00" stroke="#000000" stroke-width="1.15" stroke-linecap="butt"/>
+<line x1="148.51" y1="78.00" x2="148.51" y2="50.00" stroke="#000000" stroke-width="1.15" stroke-linecap="butt"/>
+<line x1="150.66" y1="50.00" x2="174.90" y2="36.00" stroke="#000000" stroke-width="1.45" stroke-linecap="butt"/>
+<line x1="174.90" y1="36.00" x2="174.90" y2="15.00" stroke="#000000" stroke-width="1.45" stroke-linecap="butt"/>
+<line x1="150.66" y1="50.00" x2="130.21" y2="43.36" stroke="#000000" stroke-width="1.45" stroke-linecap="butt"/>
+<line x1="118.47" y1="45.34" x2="105.83" y2="62.74" stroke="#000000" stroke-width="1.15" stroke-linecap="butt"/>
+<line x1="121.94" y1="47.87" x2="109.31" y2="65.26" stroke="#000000" stroke-width="1.15" stroke-linecap="butt"/>
+<line x1="107.57" y1="64.00" x2="120.21" y2="81.39" stroke="#000000" stroke-width="1.45" stroke-linecap="butt"/>
+<line x1="130.21" y1="84.64" x2="150.66" y2="78.00" stroke="#000000" stroke-width="1.45" stroke-linecap="butt"/>
+<line x1="96.03" y1="86.65" x2="87.37" y2="113.28" stroke="#000000" stroke-width="1.45" stroke-linecap="butt"/>
+<line x1="87.37" y1="113.28" x2="59.37" y2="113.28" stroke="#000000" stroke-width="1.45" stroke-linecap="butt"/>
+<line x1="59.37" y1="113.28" x2="50.72" y2="86.65" stroke="#000000" stroke-width="1.45" stroke-linecap="butt"/>
+<line x1="50.72" y1="86.65" x2="68.11" y2="74.02" stroke="#000000" stroke-width="1.45" stroke-linecap="butt"/>
+<line x1="78.63" y1="74.02" x2="96.03" y2="86.65" stroke="#000000" stroke-width="1.45" stroke-linecap="butt"/>
+<line x1="117.53" y1="86.65" x2="96.03" y2="86.65" stroke="#000000" stroke-width="1.45" stroke-linecap="butt"/>
+<line x1="50.72" y1="86.65" x2="39.60" y2="71.20" stroke="#000000" stroke-width="1.45" stroke-linecap="butt"/>
+<line x1="59.37" y1="113.28" x2="56.26" y2="134.05" stroke="#000000" stroke-width="1.45" stroke-linecap="butt"/>
+<text x="199.15" y="50.00" text-anchor="middle" dominant-baseline="central" fill="#000000" font-family="Montserrat, sans-serif" font-weight="600" font-size="12">N</text><text x="174.90" y="92.00" text-anchor="middle" dominant-baseline="central" fill="#000000" font-family="Montserrat, sans-serif" font-weight="600" font-size="12">N</text><text x="174.90" y="8.00" text-anchor="start" dominant-baseline="central" fill="#000000" font-family="Montserrat, sans-serif" font-weight="600" font-size="12">NH2</text><text x="124.03" y="41.35" text-anchor="middle" dominant-baseline="central" fill="#000000" font-family="Montserrat, sans-serif" font-weight="600" font-size="12">N</text><text x="124.03" y="86.65" text-anchor="middle" dominant-baseline="central" fill="#000000" font-family="Montserrat, sans-serif" font-weight="600" font-size="12">N</text><text x="73.37" y="70.19" text-anchor="middle" dominant-baseline="central" fill="#000000" font-family="Montserrat, sans-serif" font-weight="600" font-size="12">O</text><text x="34.9" y="64.7" text-anchor="end" dominant-baseline="central" fill="#000000" font-family="Montserrat, sans-serif" font-weight="600" font-size="12">HO</text><text x="55.22" y="140.97" text-anchor="end" dominant-baseline="central" fill="#000000" font-family="Montserrat, sans-serif" font-weight="600" font-size="12">HO</text><text x="108.58" y="170.97" text-anchor="middle" fill="#000000" font-family="Montserrat, sans-serif" font-weight="600" font-size="13">2′-Deoxyadenosine</text>
+</g>
+<g transform="translate(-228, 196)">
+<line x1="455.64" y1="37.86" x2="474.26" y2="48.61" stroke="#000000" stroke-width="1.15" stroke-linecap="butt"/>
+<line x1="457.79" y1="34.14" x2="476.41" y2="44.89" stroke="#000000" stroke-width="1.15" stroke-linecap="butt"/>
+<line x1="480.97" y1="56.50" x2="480.97" y2="78.00" stroke="#000000" stroke-width="1.45" stroke-linecap="butt"/>
+<line x1="479.89" y1="76.14" x2="461.27" y2="86.89" stroke="#000000" stroke-width="1.15" stroke-linecap="butt"/>
+<line x1="482.04" y1="79.86" x2="463.42" y2="90.61" stroke="#000000" stroke-width="1.15" stroke-linecap="butt"/>
+<line x1="451.09" y1="88.75" x2="432.47" y2="78.00" stroke="#000000" stroke-width="1.45" stroke-linecap="butt"/>
+<line x1="434.62" y1="78.00" x2="434.62" y2="50.00" stroke="#000000" stroke-width="1.15" stroke-linecap="butt"/>
+<line x1="430.32" y1="78.00" x2="430.32" y2="50.00" stroke="#000000" stroke-width="1.15" stroke-linecap="butt"/>
+<line x1="432.47" y1="50.00" x2="456.72" y2="36.00" stroke="#000000" stroke-width="1.45" stroke-linecap="butt"/>
+<line x1="456.72" y1="36.00" x2="456.72" y2="15.00" stroke="#000000" stroke-width="1.45" stroke-linecap="butt"/>
+<line x1="432.47" y1="50.00" x2="405.84" y2="41.35" stroke="#000000" stroke-width="1.45" stroke-linecap="butt"/>
+<line x1="404.10" y1="40.08" x2="387.64" y2="62.74" stroke="#000000" stroke-width="1.15" stroke-linecap="butt"/>
+<line x1="407.58" y1="42.61" x2="391.12" y2="65.26" stroke="#000000" stroke-width="1.15" stroke-linecap="butt"/>
+<line x1="389.38" y1="64.00" x2="402.02" y2="81.39" stroke="#000000" stroke-width="1.45" stroke-linecap="butt"/>
+<line x1="412.02" y1="84.64" x2="432.47" y2="78.00" stroke="#000000" stroke-width="1.45" stroke-linecap="butt"/>
+<line x1="377.84" y1="86.65" x2="369.19" y2="113.28" stroke="#000000" stroke-width="1.45" stroke-linecap="butt"/>
+<line x1="369.19" y1="113.28" x2="341.19" y2="113.28" stroke="#000000" stroke-width="1.45" stroke-linecap="butt"/>
+<line x1="341.19" y1="113.28" x2="332.53" y2="86.65" stroke="#000000" stroke-width="1.45" stroke-linecap="butt"/>
+<line x1="332.53" y1="86.65" x2="349.93" y2="74.02" stroke="#000000" stroke-width="1.45" stroke-linecap="butt"/>
+<line x1="360.44" y1="74.02" x2="377.84" y2="86.65" stroke="#000000" stroke-width="1.45" stroke-linecap="butt"/>
+<line x1="399.34" y1="86.65" x2="377.84" y2="86.65" stroke="#000000" stroke-width="1.45" stroke-linecap="butt"/>
+<line x1="332.53" y1="86.65" x2="321.41" y2="71.20" stroke="#000000" stroke-width="1.45" stroke-linecap="butt"/>
+<line x1="341.19" y1="113.28" x2="338.07" y2="134.05" stroke="#000000" stroke-width="1.45" stroke-linecap="butt"/>
+<line x1="332.53" y1="86.65" x2="304.84" y2="90.81" stroke="#000000" stroke-width="1.45" stroke-linecap="butt"/>
+<line x1="304.41" y1="87.94" x2="276.72" y2="92.09" stroke="#000000" stroke-width="1.15" stroke-linecap="butt"/>
+<line x1="304.84" y1="90.81" x2="277.15" y2="94.96" stroke="#000000" stroke-width="1.15" stroke-linecap="butt"/>
+<line x1="305.27" y1="93.68" x2="277.58" y2="97.83" stroke="#000000" stroke-width="1.15" stroke-linecap="butt"/>
+<line x1="480.97" y1="78.00" x2="496.73" y2="87.10" stroke="#000000" stroke-width="1.45" stroke-linecap="butt"/>
+<text x="480.97" y="50.00" text-anchor="middle" dominant-baseline="central" fill="#000000" font-family="Montserrat, sans-serif" font-weight="600" font-size="12">N</text><text x="456.72" y="92.00" text-anchor="middle" dominant-baseline="central" fill="#000000" font-family="Montserrat, sans-serif" font-weight="600" font-size="12">N</text><text x="456.72" y="8.00" text-anchor="start" dominant-baseline="central" fill="#000000" font-family="Montserrat, sans-serif" font-weight="600" font-size="12">NH2</text><text x="405.84" y="86.65" text-anchor="middle" dominant-baseline="central" fill="#000000" font-family="Montserrat, sans-serif" font-weight="600" font-size="12">N</text><text x="355.19" y="70.19" text-anchor="middle" dominant-baseline="central" fill="#000000" font-family="Montserrat, sans-serif" font-weight="600" font-size="12">O</text><text x="316.7" y="64.7" text-anchor="end" dominant-baseline="central" fill="#000000" font-family="Montserrat, sans-serif" font-weight="600" font-size="12">HO</text><text x="337.03" y="140.97" text-anchor="end" dominant-baseline="central" fill="#000000" font-family="Montserrat, sans-serif" font-weight="600" font-size="12">HO</text><text x="505.21" y="92.00" text-anchor="middle" dominant-baseline="central" fill="#000000" font-family="Montserrat, sans-serif" font-weight="600" font-size="12">Cl</text><text x="546.41" y="98.09" text-anchor="middle" dominant-baseline="central" fill="#000000" font-family="Montserrat, sans-serif" font-weight="700" font-size="13">2′-Cl</text><text x="397.84" y="25.35" text-anchor="end" dominant-baseline="central" fill="#000000" font-family="Montserrat, sans-serif" font-weight="700" font-size="13">7′-deaza</text><text x="269.15" y="110.96" text-anchor="middle" dominant-baseline="central" fill="#000000" font-family="Montserrat, sans-serif" font-weight="700" font-size="13">4′-ethynyl</text><text x="391.18" y="170.97" text-anchor="middle" fill="#000000" font-family="Montserrat, sans-serif" font-weight="600" font-size="13">Alimatravir</text>
+</g>
+</svg>

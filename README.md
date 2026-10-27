@@ -19,3 +19,7 @@ python analysis/nrti_line1_hiv/plot_genomes.py
 python analysis/nrti_line1_hiv/plot_line1_hiv.py
 python analysis/nrti_line1_hiv/plot_alimatravir_decay.py
 ```
+
+## License
+
+Copyright (c) 2026 L1 Therapeutics. William Brandler is the author. The manuscript, figures, data, and figure scripts are licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
